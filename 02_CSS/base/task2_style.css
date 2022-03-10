@@ -1,0 +1,18 @@
+
+.code {
+background-color: black;
+color: green;
+width: 400px;
+max-height: 4em;
+overflow: auto;
+}
+.first {
+    max-height: 350px;
+    list-style-type: upper-roman;
+    font-weight: bold;
+}
+.two {
+    max-height: 350px;
+    list-style-type: lower-roman;
+    font-weight: normal;
+}
