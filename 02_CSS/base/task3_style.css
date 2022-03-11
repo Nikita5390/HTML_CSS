@@ -1,0 +1,29 @@
+.wrap {
+    background-color: rgb(196, 202, 200);
+    margin-bottom: .2em;
+    
+}
+
+.text1 {
+    background-color: gray;
+    width: 15em;
+    float: left;
+    
+}
+.text2 {
+    background-color: rgb(94, 104, 91);
+    float: left;
+    margin-bottom: .2em;
+}
+.clear {
+    clear: both;
+}
+#img {
+    float: right;
+    
+}
+   
+.podval {
+    margin-top: -.7em ;
+    background-color: gray;
+}
