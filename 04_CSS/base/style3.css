@@ -1,0 +1,20 @@
+table{
+    border-collapse: collapse;
+    font-size:x-large;
+}
+td{
+    width: 50px;
+    height: 50px;
+    text-align: center; 
+}
+
+#f>:nth-child(odd){
+    background-color: black;
+    color: white;
+}
+#t>:nth-child(even){
+    background-color: black;
+    color: white;
+}
+
+  
