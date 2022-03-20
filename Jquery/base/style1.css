@@ -1,0 +1,31 @@
+th{
+    background-color: gray;
+}
+td:not(:nth-child(1))  {
+    border-bottom: 1px dashed;
+    border-left: 1px dashed;
+}
+td {
+    border-bottom: 1px dashed;
+}
+tr:nth-child(odd) {
+background-color: rgb(201, 206, 206);
+}
+tr {
+    text-align: center;
+}
+#not {
+    background-color: white;
+    border-bottom: none;
+}
+tr:hover {
+    background-color: blueviolet;
+}
+
+
+.hid {
+    visibility: hidden;
+}
+.but {
+    background-color: rgb(157, 157, 233);
+}
